@@ -1,0 +1,104 @@
+img{
+    width :400px;
+    border: 5px solid black;
+    border-radius:1500px;
+    text-align: center;
+}
+
+body{
+background-color: white;
+}
+.qw{
+    font-size: 30px;
+    color: black;
+}
+.qe{
+    font-size: 31px;
+    color: black;
+}
+.qr{
+    font-size: 32px;
+    color: black;
+}
+.qt{
+    font-size: 33px;
+    color: black;
+}
+.qy{
+   font-size: 34px; 
+   color:black;
+}
+main li{
+    margin-bottom: 5px;
+    width: 150px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+nav a{
+    color: yellow;
+    text-decoration: none;
+}
+.qwerty{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+header p{
+    text-align: center;
+}
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+main li a{
+    text-decoration: none;
+    color:rgb(255, 0, 0);
+}
+h1{
+    text-align: center;
+}
+.q12{
+color: #FF6600;
+}
+footer a{
+    color: red;
+    font-size:250%;
+}
+footer{
+ position: fixed;
+ bottom: 0%;
+ width: 100%;
+    background-color: rgb(66, 102, 134);
+    opacity: 0.3;
+    text-align: center;
+}
+
+footer:hover{
+    opacity: 1;
+}
+.qwertyas123{
+    font-size: 200%;
+}
